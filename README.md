@@ -19,6 +19,4 @@ Skills: HTML/CSS/CSS/JS/REACT JS/REDUX/MOBX/GIT/GITHUB
 
 ![GitHub metrics](https://metrics.lecoq.io/andrsweb)  
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=andrsweb)  
-
 ![Profile views](https://gpvc.arturio.dev/andrsweb)  
