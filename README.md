@@ -1,8 +1,24 @@
-#Hi! My name is Andrey. I'm frontend developer.
+### Hi there 👋, my name is Andrey.
+#### I'm frontend developer.
+![I'm frontend developer.](https://test.d3v.pro/banner.png)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=andrsweb&theme=transparent&hide_border=true&card_width=1000)](https://git.io/streak-stats)
-<br/>
-<br/>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrsweb&theme=transparent&show_icons=true)](https://github.com/andrsweb/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrsweb&theme=transparen)](https://github.com/andrsweb/github-readme-stats)
-[![codewars](https://www.codewars.com/users/username/badges/large)](https://www.codewars.com/users/andrsweb) 
+Excellent knowledge of html5,css3,scss,js(es6+),ReactJS,Redux,mobX. Actively developing in my direction every day. I write clean neat code without any garbage. 
+All the projects I work on have high load speed scores on Google Page Speed Insights.
+The website creation process is my passion. I adore all the steps: from the idea to the end result! That's why I'm building my clients' projects as my own - with the highest level of responsibility and quality.
+
+Skills: HTML/CSS/CSS/JS/REACT JS/REDUX/MOBX/GIT/GITHUB
+
+- 🔭 I’m currently working on my pet project https://d3v.pro/ 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/andrsweb)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/andrey-polovnov-3367a5273/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/andrsweb/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/andrsweb)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://d3v.pro/)  
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=andrsweb&show_icons=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=andrsweb)  
+
+![GitHub metrics](https://metrics.lecoq.io/andrsweb)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=andrsweb)  
+
+![Profile views](https://gpvc.arturio.dev/andrsweb)  
