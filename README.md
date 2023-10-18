@@ -13,7 +13,7 @@ Skills: HTML/CSS/CSS/JS/REACT JS/REDUX/MOBX/GIT/GITHUB
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/andrsweb)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/andrey-polovnov-3367a5273/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/andrsweb/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/andrsweb)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://d3v.pro/)  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=andrsweb&show_icons=true&theme=transparent)  
+[![GitHub Streak](https://streak-stats.demolab.com?user=andrsweb&theme=transparent&hide_border=true&card_width=1000)](https://git.io/streak-stats)
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=andrsweb)  
 
