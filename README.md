@@ -18,5 +18,4 @@ Skills: HTML/CSS/CSS/JS/REACT JS/REDUX/MOBX/GIT/GITHUB
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=andrsweb)  
 
 ![GitHub metrics](https://metrics.lecoq.io/andrsweb)  
-
-![Profile views](https://gpvc.arturio.dev/andrsweb)  
+![](https://komarev.com/ghpvc/?username=your-github-andrsweb)
