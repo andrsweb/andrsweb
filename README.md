@@ -15,7 +15,5 @@ Skills: HTML/CSS/CSS/JS/REACT JS/REDUX/MOBX/GIT/GITHUB
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=andrsweb&theme=transparent&hide_border=true&card_width=1000)](https://git.io/streak-stats)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=andrsweb)  
-
 ![GitHub metrics](https://metrics.lecoq.io/andrsweb)  
 ![](https://komarev.com/ghpvc/?username=your-github-andrsweb)
