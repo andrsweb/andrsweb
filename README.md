@@ -1,7 +1,8 @@
 ### Hi there 👋, my name is Andrey.
 
 
-- 🔭 I’m currently working on my pet project https://d3v.pro/ 
+- 🔭 I’m currently working on project https://cryptomatcha.com/
+      React/Next JS/Node JS/PostgreSQL/GraphQL
 
 <br>
 
