@@ -1,8 +1,8 @@
 ### Hi there 👋, my name is Andrey.
 
 
-- 🔭 I’m currently working on project https://cryptomatcha.com/
-      React/Next JS/Node JS/PostgreSQL/GraphQL
+- 🔭 I’m currently working on project https://cryptomatcha.com/ - it's old version.
+      React/TypeScript/GraphQL/CosmosKit/CosmJs/Stargate
 
 <br>
 
