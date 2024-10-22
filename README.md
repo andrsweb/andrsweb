@@ -1,8 +1,8 @@
 ### Hi there 👋, my name is Andrey.
 
 
-- 🔭 I’m currently working on project https://cryptomatcha.com/ - it's old version.
-      React/TypeScript/GraphQL/CosmosKit/CosmJs/Stargate
+- 🔭 I’m currently working on cryptomatcha project.
+      React/TypeScript/GraphQL/CosmosKit/CosmJs/Stargate/Chart Js/
 
 Server: Ubuntu,Nginx,NodeJs, Express
 
