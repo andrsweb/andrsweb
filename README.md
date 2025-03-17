@@ -1,10 +1,10 @@
 ### Hi there 👋, my name is Andrey.
 
 
-- 🔭 I’m currently working on cryptomatcha project.
-      React/TypeScript/GraphQL/CosmosKit/CosmJs/Stargate/Chart Js/
+- 🔭 I’m currently working on crmh project.
+      React/Next JS/Nest JS/TypeScript/Postgres/GraphQL/Websocket/CosmosKit/CosmJs/Stargate/
 
-Server: Ubuntu,Nginx,NodeJs, Express
+Server: Ubuntu,Nginx,NodeJs, Nest
 
 <br>
 
